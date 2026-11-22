@@ -1,3 +1,4 @@
+@Deprecated
 public class Currency {
     private String nome;
     private String simbolo;
